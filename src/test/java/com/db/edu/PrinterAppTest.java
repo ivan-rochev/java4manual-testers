@@ -4,6 +4,6 @@ package com.db.edu;
 public class PrinterAppTest {
     public void shouldPrintWhenNormalFlowStringParameter() {
         PrinterApp sut = new PrinterApp();
-        sut.main();
+        sut.main(); //check push
     }
 }
